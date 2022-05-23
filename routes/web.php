@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('oybekjon malades');
+    return view('bo\'lliyeeeee');
 });
